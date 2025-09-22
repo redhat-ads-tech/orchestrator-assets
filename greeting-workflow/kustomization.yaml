@@ -1,0 +1,4 @@
+resources:
+- ./cm.properties.yaml
+- ./cm.schemas.yaml
+- ./greeting.sf.yaml
